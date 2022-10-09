@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-my-test",
+  "version": "1.0.0",
+  "description": "A dummy plugin for testing",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravinthAro/stylelint-my-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AravinthAro/stylelint-my-test/issues"
+  },
+  "homepage": "https://github.com/AravinthAro/stylelint-my-test#readme",
+  "dependencies": {
+    "stylelint": "^14.13.0"
+  }
+}
